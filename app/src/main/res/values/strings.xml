@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- main_page strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="___________________________________________string">Добрый день, вы попали в бизнес–приложение</string>
+	<string name="xelpast_string">XELPAST</string>
+	<string name="______________________________________________________________________________string">Пройдите регистрацию или авторизируйтесь для дальнейшего доступа к приложению</string>
+	<string name="____________string">Авторизация</string>
+	<string name="____________ek1_string">Регистрация</string>
+
+	<string name="app_name2">Page 2</string>
+	<string name="_____________________string">Создать свой аккаунт</string>
+	<string name="________________________string">Уже существует аккаунт?</string>
+	<string name="______string">Логин</string>
+	<string name="______________string">Введите логин</string>
+	<string name="_______string">Пароль</string>
+	<string name="_______________string">Введите пароль</string>
+	<string name="_________________string">Повторите пароль</string>
+	<string name="_________________________string">Введите повторный пароль</string>
+
+	<string name="app_name3">Page 3</string>
+	<string name="_____________________string2">Войти в свой аккаунт</string>
+	<string name="______________string2">Нет аккаунта?</string>
+	<string name="_______________string2">Забыли пароль?</string>
+	<string name="___________________string2">Зарегестрироваться</string>
+	<string name="______string2">Логин</string>
+	<string name="______________ek1_string2">Введите логин</string>
+	<string name="_______string2">Пароль</string>
+	<string name="_______________ek1_string2">Введите пароль</string>
+	<string name="______ek1_string2">Войти</string>
+</resources>
